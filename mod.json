@@ -1,0 +1,12 @@
+{
+    "Name": "DamagePopup",
+    "Authors": ["KVN"],
+    "URL": "http://kvn.hu/",
+    "Description": "Adds damage text popups for each hit.",
+    "Version": "1.0.0",
+    "HasVeniceEXT": true,
+    "HasWebUI": true,
+    "Dependencies": {
+        "veniceext": "^1.0.0"
+    }
+}
